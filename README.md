@@ -2,6 +2,8 @@
 
 Readify is a responsive Octopress theme focused on readibility. It's designed to make the reading experience as pleasurable as possible on any device.
 
+[See the demo.](http://vladigleba.com/)
+
 # Features
 - designed using a modular scale
 - defined using `rem` units
