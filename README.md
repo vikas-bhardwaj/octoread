@@ -24,13 +24,7 @@ Readify is a responsive Octopress theme focused on readibility. It's designed to
 
 You can modify the following variables:
 
-`$accent-color`
-`$accent-hover-color`
-`$text-color`
-`$secondary-text-color`
-`$line-color`
-`$border-radius-size`
-`$hide-line-numbers` (default is `true`)
+`$accent-color`, `$accent-hover-color`, `$text-color`, `$secondary-text-color`, `$line-color`, `$border-radius-size`, and `$hide-line-numbers` (default is `true`).
 
 # License
 
