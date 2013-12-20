@@ -11,7 +11,7 @@ Readify is a responsive Octopress theme focused on readibility. It's designed to
 - built with Sass
 - responsively designed using media queires
 
-[Learn more about Readify's features.](http://vladigleba.com/blog/2013/10/31/introducing-readify-a-new-octopress-theme-focused-on-readibility/)
+[Read my blog post to learn more.](http://vladigleba.com/blog/2013/10/31/introducing-readify-a-new-octopress-theme-focused-on-readibility/)
 
 # Install
 
@@ -19,6 +19,18 @@ Readify is a responsive Octopress theme focused on readibility. It's designed to
     git clone git://github.com/vladigleba/readify.git .themes/readify
     rake install['readify']
     rake generate
+
+# Variables
+
+You can modify the following variables:
+
+`$accent-color`
+`$accent-hover-color`
+`$text-color`
+`$secondary-text-color`
+`$line-color`
+`$border-radius-size`
+`$hide-line-numbers` (default is `true`)
 
 # License
 
