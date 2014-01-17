@@ -9,7 +9,7 @@ Readify is a responsive Octopress theme focused on readibility. It's designed to
 - defined using `rem` units
 - expressed with large, legible fonts
 - built with Sass
-- responsively designed using media queires
+- responsively designed using media queries
 
 [Read my blog post to learn more.](http://vladigleba.com/blog/2013/10/31/introducing-readify-a-new-octopress-theme-focused-on-readibility/)
 
