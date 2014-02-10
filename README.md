@@ -16,7 +16,7 @@ Readify is a responsive Octopress theme focused on readibility. It's designed to
 # Install
 
     cd octopress
-    git submodule add https://github.com/vladigleba/readify.git .themes/readify
+    git clone https://github.com/vladigleba/readify.git .themes/readify
     rake install['readify']
     rake generate
 
