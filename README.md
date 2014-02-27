@@ -32,8 +32,8 @@ You can modify the following variables (defined in `sass/custom/_styles.scss`):
 - `$border-radius-size`
 - `$hide-line-numbers` (default is `true`).
 
-# Profile Pic
-If you decide to add a profile pic to your `about` page, you can take advantage of the styles I've provided by adding an `id` attribute with the value of `portrait` to your profile pic `img` element, like so:
+# Profile Picture
+Readify contains styles for a profile picture in the `about` page. You can take advantage of them by adding an `id` attribute with the value of `portrait` to your profile pic `img` element, like so:
 
     <img id="portrait" src="http://publicly/available/profile/pic.jpeg" alt="portrait" />
 
