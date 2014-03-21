@@ -37,6 +37,8 @@ Readify contains styles for a profile picture in the `about` page. You can take 
 
     <img id="portrait" src="http://publicly/available/profile/pic.jpeg" alt="portrait" />
 
+The picture should be a square that's at least 240px wide.
+
 # Updating
 
     cd octopress/.themes/readify
