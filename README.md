@@ -16,8 +16,8 @@ Readify is a responsive Octopress theme focused on readibility. It's designed to
 # Install
 
     cd octopress
-    git clone https://github.com/vladigleba/readify.git .themes/readify
-    rake install['readify']
+    git clone https://github.com/vikas-bhardwaj/octoread.git .themes/octoread
+    rake install['octoread']
     rake generate
 
 # Variables
@@ -41,10 +41,10 @@ The picture should be a square that's at least 240px wide.
 
 # Updating
 
-    cd octopress/.themes/readify
+    cd octopress/.themes/octoread
     git pull origin master
     cd ../..
-    rake install['readify']
+    rake install['octoread']
     rake generate
 
 # License
